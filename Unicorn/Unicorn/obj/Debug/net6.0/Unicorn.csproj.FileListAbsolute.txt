@@ -1,0 +1,15 @@
+G:\Programming\Unicorn\Unicorn\bin\Debug\net6.0\Unicorn.exe
+G:\Programming\Unicorn\Unicorn\bin\Debug\net6.0\Unicorn.deps.json
+G:\Programming\Unicorn\Unicorn\bin\Debug\net6.0\Unicorn.runtimeconfig.json
+G:\Programming\Unicorn\Unicorn\bin\Debug\net6.0\Unicorn.dll
+G:\Programming\Unicorn\Unicorn\bin\Debug\net6.0\Unicorn.pdb
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.csproj.AssemblyReference.cache
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.AssemblyInfoInputs.cache
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.AssemblyInfo.cs
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.csproj.CoreCompileInputs.cache
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.dll
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\refint\Unicorn.dll
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.pdb
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\Unicorn.genruntimeconfig.cache
+G:\Programming\Unicorn\Unicorn\obj\Debug\net6.0\ref\Unicorn.dll

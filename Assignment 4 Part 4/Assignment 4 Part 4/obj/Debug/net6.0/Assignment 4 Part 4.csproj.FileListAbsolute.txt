@@ -1,0 +1,15 @@
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\bin\Debug\net6.0\Assignment 4 Part 4.exe
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\bin\Debug\net6.0\Assignment 4 Part 4.deps.json
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\bin\Debug\net6.0\Assignment 4 Part 4.runtimeconfig.json
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\bin\Debug\net6.0\Assignment 4 Part 4.dll
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\bin\Debug\net6.0\Assignment 4 Part 4.pdb
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.csproj.AssemblyReference.cache
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.AssemblyInfoInputs.cache
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.AssemblyInfo.cs
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.csproj.CoreCompileInputs.cache
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.dll
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\refint\Assignment 4 Part 4.dll
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.pdb
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\Assignment 4 Part 4.genruntimeconfig.cache
+G:\Programming\Assignment 4 Part 4\Assignment 4 Part 4\obj\Debug\net6.0\ref\Assignment 4 Part 4.dll

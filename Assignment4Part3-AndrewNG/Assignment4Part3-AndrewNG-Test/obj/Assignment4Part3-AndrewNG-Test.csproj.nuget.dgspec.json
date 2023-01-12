@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG-Test\\Assignment4Part3-AndrewNG-Test.csproj": {}
+  },
+  "projects": {
+    "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG-Test\\Assignment4Part3-AndrewNG-Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG-Test\\Assignment4Part3-AndrewNG-Test.csproj",
+        "projectName": "Assignment4Part3-AndrewNG-Test",
+        "projectPath": "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG-Test\\Assignment4Part3-AndrewNG-Test.csproj",
+        "packagesPath": "C:\\Users\\minec\\.nuget\\packages\\",
+        "outputPath": "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG-Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG.csproj": {
+                "projectPath": "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG.csproj",
+        "projectName": "Assignment4Part3-AndrewNG",
+        "projectPath": "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG.csproj",
+        "packagesPath": "C:\\Users\\minec\\.nuget\\packages\\",
+        "outputPath": "G:\\Programming\\Assignment4Part3-AndrewNG\\Assignment4Part3-AndrewNG\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Programming\OCT1922\OCT1922\bin\Debug\net6.0\OCT1922.exe
+E:\Programming\OCT1922\OCT1922\bin\Debug\net6.0\OCT1922.deps.json
+E:\Programming\OCT1922\OCT1922\bin\Debug\net6.0\OCT1922.runtimeconfig.json
+E:\Programming\OCT1922\OCT1922\bin\Debug\net6.0\OCT1922.dll
+E:\Programming\OCT1922\OCT1922\bin\Debug\net6.0\OCT1922.pdb
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.csproj.AssemblyReference.cache
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.AssemblyInfoInputs.cache
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.AssemblyInfo.cs
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.csproj.CoreCompileInputs.cache
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.dll
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\refint\OCT1922.dll
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.pdb
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\OCT1922.genruntimeconfig.cache
+E:\Programming\OCT1922\OCT1922\obj\Debug\net6.0\ref\OCT1922.dll

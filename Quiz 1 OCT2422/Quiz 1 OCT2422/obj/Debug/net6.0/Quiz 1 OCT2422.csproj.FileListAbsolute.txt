@@ -1,0 +1,15 @@
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.csproj.AssemblyReference.cache
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.AssemblyInfoInputs.cache
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.AssemblyInfo.cs
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.csproj.CoreCompileInputs.cache
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\bin\Debug\net6.0\Quiz 1 OCT2422.exe
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\bin\Debug\net6.0\Quiz 1 OCT2422.deps.json
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\bin\Debug\net6.0\Quiz 1 OCT2422.runtimeconfig.json
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\bin\Debug\net6.0\Quiz 1 OCT2422.dll
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\bin\Debug\net6.0\Quiz 1 OCT2422.pdb
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.dll
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\refint\Quiz 1 OCT2422.dll
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.pdb
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\Quiz 1 OCT2422.genruntimeconfig.cache
+E:\Programming\Quiz 1 OCT2422\Quiz 1 OCT2422\obj\Debug\net6.0\ref\Quiz 1 OCT2422.dll

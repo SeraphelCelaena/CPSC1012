@@ -1,0 +1,15 @@
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\bin\Debug\net6.0\NOV0222 Methods again.exe
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\bin\Debug\net6.0\NOV0222 Methods again.deps.json
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\bin\Debug\net6.0\NOV0222 Methods again.runtimeconfig.json
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\bin\Debug\net6.0\NOV0222 Methods again.dll
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\bin\Debug\net6.0\NOV0222 Methods again.pdb
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.csproj.AssemblyReference.cache
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.AssemblyInfoInputs.cache
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.AssemblyInfo.cs
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.csproj.CoreCompileInputs.cache
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.dll
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\refint\NOV0222 Methods again.dll
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.pdb
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\NOV0222 Methods again.genruntimeconfig.cache
+E:\Programming\NOV0222 Methods again\NOV0222 Methods again\obj\Debug\net6.0\ref\NOV0222 Methods again.dll

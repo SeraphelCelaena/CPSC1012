@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NOV03 LAB4/1.0.0": {
+        "runtime": {
+          "NOV03 LAB4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NOV03 LAB4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DEC0822 Unit Testing/1.0.0": {
+        "runtime": {
+          "DEC0822 Unit Testing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEC0822 Unit Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\bin\Debug\net6.0\NG-LAB2.exe
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\bin\Debug\net6.0\NG-LAB2.deps.json
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\bin\Debug\net6.0\NG-LAB2.runtimeconfig.json
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\bin\Debug\net6.0\NG-LAB2.dll
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\bin\Debug\net6.0\NG-LAB2.pdb
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.csproj.AssemblyReference.cache
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.AssemblyInfoInputs.cache
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.AssemblyInfo.cs
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.csproj.CoreCompileInputs.cache
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.dll
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\refint\NG-LAB2.dll
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.pdb
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\NG-LAB2.genruntimeconfig.cache
+C:\Users\minec\source\repos\NG-LAB2\NG-LAB2\obj\Debug\net6.0\ref\NG-LAB2.dll

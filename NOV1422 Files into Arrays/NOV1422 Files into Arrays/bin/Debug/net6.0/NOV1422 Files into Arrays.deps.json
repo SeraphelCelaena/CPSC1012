@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NOV1422 Files into Arrays/1.0.0": {
+        "runtime": {
+          "NOV1422 Files into Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NOV1422 Files into Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

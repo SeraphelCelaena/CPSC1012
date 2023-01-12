@@ -1,0 +1,15 @@
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.csproj.AssemblyReference.cache
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.AssemblyInfoInputs.cache
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.AssemblyInfo.cs
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.csproj.CoreCompileInputs.cache
+E:\Programming\NOV0222 Lab3\NOV0222\bin\Debug\net6.0\NOV0222.exe
+E:\Programming\NOV0222 Lab3\NOV0222\bin\Debug\net6.0\NOV0222.deps.json
+E:\Programming\NOV0222 Lab3\NOV0222\bin\Debug\net6.0\NOV0222.runtimeconfig.json
+E:\Programming\NOV0222 Lab3\NOV0222\bin\Debug\net6.0\NOV0222.dll
+E:\Programming\NOV0222 Lab3\NOV0222\bin\Debug\net6.0\NOV0222.pdb
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.dll
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\refint\NOV0222.dll
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.pdb
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\NOV0222.genruntimeconfig.cache
+E:\Programming\NOV0222 Lab3\NOV0222\obj\Debug\net6.0\ref\NOV0222.dll

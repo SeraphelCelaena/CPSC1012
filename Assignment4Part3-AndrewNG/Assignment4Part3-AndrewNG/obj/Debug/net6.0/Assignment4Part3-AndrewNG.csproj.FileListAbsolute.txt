@@ -1,0 +1,5 @@
+G:\Programming\Assignment4Part3-AndrewNG\Assignment4Part3-AndrewNG\obj\Debug\net6.0\Assignment4Part3-AndrewNG.csproj.AssemblyReference.cache
+G:\Programming\Assignment4Part3-AndrewNG\Assignment4Part3-AndrewNG\obj\Debug\net6.0\Assignment4Part3-AndrewNG.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Assignment4Part3-AndrewNG\Assignment4Part3-AndrewNG\obj\Debug\net6.0\Assignment4Part3-AndrewNG.AssemblyInfoInputs.cache
+G:\Programming\Assignment4Part3-AndrewNG\Assignment4Part3-AndrewNG\obj\Debug\net6.0\Assignment4Part3-AndrewNG.AssemblyInfo.cs
+G:\Programming\Assignment4Part3-AndrewNG\Assignment4Part3-AndrewNG\obj\Debug\net6.0\Assignment4Part3-AndrewNG.csproj.CoreCompileInputs.cache

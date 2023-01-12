@@ -1,0 +1,15 @@
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\bin\Debug\net6.0\CPSC1012-Lab2-AndrewNg.exe
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\bin\Debug\net6.0\CPSC1012-Lab2-AndrewNg.deps.json
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\bin\Debug\net6.0\CPSC1012-Lab2-AndrewNg.runtimeconfig.json
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\bin\Debug\net6.0\CPSC1012-Lab2-AndrewNg.dll
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\bin\Debug\net6.0\CPSC1012-Lab2-AndrewNg.pdb
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.csproj.AssemblyReference.cache
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.AssemblyInfoInputs.cache
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.AssemblyInfo.cs
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.csproj.CoreCompileInputs.cache
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.dll
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\refint\CPSC1012-Lab2-AndrewNg.dll
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.pdb
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\CPSC1012-Lab2-AndrewNg.genruntimeconfig.cache
+C:\Users\minec\source\repos\CPSC1012-Lab2-AndrewNg\CPSC1012-Lab2-AndrewNg\obj\Debug\net6.0\ref\CPSC1012-Lab2-AndrewNg.dll

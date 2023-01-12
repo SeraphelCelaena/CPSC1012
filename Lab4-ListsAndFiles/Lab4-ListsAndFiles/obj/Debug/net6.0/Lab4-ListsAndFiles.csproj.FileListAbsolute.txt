@@ -1,0 +1,15 @@
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.csproj.AssemblyReference.cache
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.AssemblyInfoInputs.cache
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.AssemblyInfo.cs
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.csproj.CoreCompileInputs.cache
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\bin\Debug\net6.0\Lab4-ListsAndFiles.exe
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\bin\Debug\net6.0\Lab4-ListsAndFiles.deps.json
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\bin\Debug\net6.0\Lab4-ListsAndFiles.runtimeconfig.json
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\bin\Debug\net6.0\Lab4-ListsAndFiles.dll
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\bin\Debug\net6.0\Lab4-ListsAndFiles.pdb
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.dll
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\refint\Lab4-ListsAndFiles.dll
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.pdb
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\Lab4-ListsAndFiles.genruntimeconfig.cache
+G:\Programming\Lab4-ListsAndFiles\Lab4-ListsAndFiles\obj\Debug\net6.0\ref\Lab4-ListsAndFiles.dll

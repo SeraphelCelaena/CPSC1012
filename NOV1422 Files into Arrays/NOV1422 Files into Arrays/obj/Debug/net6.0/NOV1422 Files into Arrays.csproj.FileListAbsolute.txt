@@ -1,0 +1,15 @@
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\bin\Debug\net6.0\NOV1422 Files into Arrays.exe
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\bin\Debug\net6.0\NOV1422 Files into Arrays.deps.json
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\bin\Debug\net6.0\NOV1422 Files into Arrays.runtimeconfig.json
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\bin\Debug\net6.0\NOV1422 Files into Arrays.dll
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\bin\Debug\net6.0\NOV1422 Files into Arrays.pdb
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.csproj.AssemblyReference.cache
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.AssemblyInfoInputs.cache
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.AssemblyInfo.cs
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.csproj.CoreCompileInputs.cache
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.dll
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\refint\NOV1422 Files into Arrays.dll
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.pdb
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\NOV1422 Files into Arrays.genruntimeconfig.cache
+E:\Programming\NOV1422 Files into Arrays\NOV1422 Files into Arrays\obj\Debug\net6.0\ref\NOV1422 Files into Arrays.dll

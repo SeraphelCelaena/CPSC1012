@@ -1,0 +1,15 @@
+D:\Programming\Quiz2\Quiz2\bin\Debug\net6.0\Quiz2.exe
+D:\Programming\Quiz2\Quiz2\bin\Debug\net6.0\Quiz2.deps.json
+D:\Programming\Quiz2\Quiz2\bin\Debug\net6.0\Quiz2.runtimeconfig.json
+D:\Programming\Quiz2\Quiz2\bin\Debug\net6.0\Quiz2.dll
+D:\Programming\Quiz2\Quiz2\bin\Debug\net6.0\Quiz2.pdb
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.csproj.AssemblyReference.cache
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfoInputs.cache
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfo.cs
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.csproj.CoreCompileInputs.cache
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.dll
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\refint\Quiz2.dll
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.pdb
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\Quiz2.genruntimeconfig.cache
+D:\Programming\Quiz2\Quiz2\obj\Debug\net6.0\ref\Quiz2.dll

@@ -1,0 +1,15 @@
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.csproj.AssemblyReference.cache
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.AssemblyInfoInputs.cache
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.AssemblyInfo.cs
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.csproj.CoreCompileInputs.cache
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\bin\Debug\net6.0\NOV2322 Array Tiem Again.exe
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\bin\Debug\net6.0\NOV2322 Array Tiem Again.deps.json
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\bin\Debug\net6.0\NOV2322 Array Tiem Again.runtimeconfig.json
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\bin\Debug\net6.0\NOV2322 Array Tiem Again.dll
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\bin\Debug\net6.0\NOV2322 Array Tiem Again.pdb
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.dll
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\refint\NOV2322 Array Tiem Again.dll
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.pdb
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\NOV2322 Array Tiem Again.genruntimeconfig.cache
+E:\Programming\NOV2322 Array Tiem Again\NOV2322 Array Tiem Again\obj\Debug\net6.0\ref\NOV2322 Array Tiem Again.dll

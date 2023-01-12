@@ -1,0 +1,15 @@
+E:\Programming\OCT1722\OCT1722\bin\Debug\net6.0\OCT1722.exe
+E:\Programming\OCT1722\OCT1722\bin\Debug\net6.0\OCT1722.deps.json
+E:\Programming\OCT1722\OCT1722\bin\Debug\net6.0\OCT1722.runtimeconfig.json
+E:\Programming\OCT1722\OCT1722\bin\Debug\net6.0\OCT1722.dll
+E:\Programming\OCT1722\OCT1722\bin\Debug\net6.0\OCT1722.pdb
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.csproj.AssemblyReference.cache
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.AssemblyInfoInputs.cache
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.AssemblyInfo.cs
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.csproj.CoreCompileInputs.cache
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.dll
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\refint\OCT1722.dll
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.pdb
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\OCT1722.genruntimeconfig.cache
+E:\Programming\OCT1722\OCT1722\obj\Debug\net6.0\ref\OCT1722.dll

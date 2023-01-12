@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DEC1222_It_s_looking_a_lot_like_arrays_
+build_property.ProjectDir = E:\Programming\DEC1222 It's looking a lot like arrays~\DEC1222 It's looking a lot like arrays~\

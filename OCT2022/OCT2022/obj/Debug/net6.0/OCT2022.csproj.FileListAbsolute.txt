@@ -1,0 +1,15 @@
+E:\Programming\OCT2022\OCT2022\bin\Debug\net6.0\OCT2022.exe
+E:\Programming\OCT2022\OCT2022\bin\Debug\net6.0\OCT2022.deps.json
+E:\Programming\OCT2022\OCT2022\bin\Debug\net6.0\OCT2022.runtimeconfig.json
+E:\Programming\OCT2022\OCT2022\bin\Debug\net6.0\OCT2022.dll
+E:\Programming\OCT2022\OCT2022\bin\Debug\net6.0\OCT2022.pdb
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.csproj.AssemblyReference.cache
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.AssemblyInfoInputs.cache
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.AssemblyInfo.cs
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.csproj.CoreCompileInputs.cache
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.dll
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\refint\OCT2022.dll
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.pdb
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\OCT2022.genruntimeconfig.cache
+E:\Programming\OCT2022\OCT2022\obj\Debug\net6.0\ref\OCT2022.dll
